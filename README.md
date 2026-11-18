@@ -1,4 +1,4 @@
-# mailinapp-com
+# MailInApp
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,147 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-mailinapp-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://mailinapp.com/
+MailInApp provides an interactive email platform that enables marketers and developers to embed dynamic, one‑tap checkout, polls, quizzes, and product showcases directly inside email messages. The service supports AI‑generated content, integrates with Shopify, WooCommerce and major CRMs, and offers an embed API for custom workflows. It includes a full fallback engine to ensure emails render gracefully across all inboxes, along with analytics and A/B testing tools. Plans range from a free tier to enterprise solutions, catering to businesses of all sizes.
+
+**Areas:** Email · Marketing · Interactive · API · SaaS
+
+## MailInApp on APIs.io
+
+Everything profiled for MailInApp is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mailinapp-com/](https://apis.io/providers/mailinapp-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (9)
+
+- [MailInApp Contacts API](https://apis.io/apis/mailinapp-com/mailinapp-com-contacts-api/) — The Contacts API from MailInApp — 2 operation(s) for contacts.
+- [MailInApp Courses API](https://apis.io/apis/mailinapp-com/mailinapp-com-courses-api/) — The Courses API from MailInApp — 2 operation(s) for courses.
+- [MailInApp Deals API](https://apis.io/apis/mailinapp-com/mailinapp-com-deals-api/) — The Deals API from MailInApp — 3 operation(s) for deals.
+- [MailInApp Experiments API](https://apis.io/apis/mailinapp-com/mailinapp-com-experiments-api/) — The Experiments API from MailInApp — 3 operation(s) for experiments.
+- [MailInApp Journeys API](https://apis.io/apis/mailinapp-com/mailinapp-com-journeys-api/) — The Journeys API from MailInApp — 2 operation(s) for journeys.
+- [MailInApp Live view API](https://apis.io/apis/mailinapp-com/mailinapp-com-live-view-api/) — The Live view API from MailInApp — 1 operation(s) for live view.
+- [MailInApp Send API](https://apis.io/apis/mailinapp-com/mailinapp-com-send-api/) — The Send API from MailInApp — 2 operation(s) for send.
+- [MailInApp Webhooks API](https://apis.io/apis/mailinapp-com/mailinapp-com-webhooks-api/) — The Webhooks API from MailInApp — 3 operation(s) for webhooks.
+- [MailInApp Webinars API](https://apis.io/apis/mailinapp-com/mailinapp-com-webinars-api/) — The Webinars API from MailInApp — 2 operation(s) for webinars.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Mailinapp Com Webhooks](https://apis.io/asyncapis/mailinapp-com/mailinapp-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [MailInApp Agentic Access](https://apis.io/agentic-access/mailinapp-com/mailinapp-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Contact](https://apis.io/schemas/mailinapp-com/mailinapp-com-contact/)
+- [Deal](https://apis.io/schemas/mailinapp-com/mailinapp-com-deal/)
+- [Experiment](https://apis.io/schemas/mailinapp-com/mailinapp-com-experiment/)
+- [ExperimentReport](https://apis.io/schemas/mailinapp-com/mailinapp-com-experiment-report/)
+- [Pipeline](https://apis.io/schemas/mailinapp-com/mailinapp-com-pipeline/)
+- [WebhookSubscription](https://apis.io/schemas/mailinapp-com/mailinapp-com-webhook-subscription/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Mailinapp Com Context](https://apis.io/jsonld/mailinapp-com/mailinapp-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [MailInApp API Rules](https://apis.io/rules/mailinapp-com/mailinapp-com-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [MailInApp Authentication](https://apis.io/security/mailinapp-com/mailinapp-com-authentication/)
+- [MailInApp Domain Security](https://apis.io/security/mailinapp-com/mailinapp-com-domain-security/)
+- [MailInApp Trust Center](https://apis.io/security/mailinapp-com/mailinapp-com-trust-center/)
+- [MailInApp Vulnerability Disclosure](https://apis.io/security/mailinapp-com/mailinapp-com-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [MailInApp Plans Pricing](https://apis.io/plans/mailinapp-com/mailinapp-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mailinapp.com/)
+- [Documentation](https://mailinapp.com/docs)
+- [Getting started](https://mailinapp.com/docs/getting-started/introduction)
+- [API reference](https://mailinapp.com/docs/developers/automation-api)
+- [Pricing](https://mailinapp.com/pricing)
+- [Security](https://mailinapp.com/security)
+- [Compliance](https://mailinapp.com/trust)
+- [Terms of service](https://mailinapp.com/terms)
+- [Privacy policy](https://mailinapp.com/privacy)
+- [Status](https://mailinapp.com/status)
+
+## API Evangelist rating
+
+**Kin Score 65.0** — strong · rubric 0.28.0 · scored 2026-11-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 76.8 |
+| Contract quality | 68.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 31.0 |
+| Developer ergonomics | 46.9 |
+| Access clarity | 71.9 |
+
+**Agent readiness 61.4** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 35.3** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mailinapp-com/](https://apis.io/providers/mailinapp-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for MailInApp: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mailinapp-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
